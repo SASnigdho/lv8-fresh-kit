@@ -37,11 +37,7 @@
             @endif
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
-                <h1 style='color: #4195CE'>Home</h1>
-                {{--  --}}
-                <a href="{{ route('about') }}" style='color: #4195CE'>About Us</a> |
-                <a href="{{ route('contact') }}" style='color: #307AAC'>Contact Us</a> |
-                {{--  --}}
+                <h1 style="color: #4195CE">About Us</h1>
 
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <div class="grid grid-cols-1 md:grid-cols-2">
